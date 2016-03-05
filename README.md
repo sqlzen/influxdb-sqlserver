@@ -4,7 +4,7 @@
 # influxdb-sqlserver
 Collect Microsoft SQL Server metrics, send to InfluxDB and visualize with Grafana
 
-![influxdb-grafana](https://cloud.githubusercontent.com/assets/16494280/12071074/2c1a8c52-b098-11e5-8a3b-beb29cea5ceb.png)
+![influxdb-grafana](https://cloud.githubusercontent.com/assets/2708087/13547121/40c8a4ea-e2c5-11e5-90f6-cecdd2c660d1.png)
 
 
 ## Getting Started
